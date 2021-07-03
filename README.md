@@ -3,7 +3,9 @@ A kotlin extension to use toast like abilities for all views.
 
 <img src="/media/device-2021-07-02-212708.gif" width="180">
 
-Just copy this extension code, into your project:
+Just copy this extension code, into your project and add the kotlin coroutines to your dependencies 
+
+```implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.3.9'```:
 
 https://github.com/AndreyMatos/Toastify/blob/main/app/src/main/java/am/toastify/ToastifyExt.kt
  ```kotlin
